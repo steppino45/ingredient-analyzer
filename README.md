@@ -8,7 +8,7 @@
 
 A clinically-informed cosmetic ingredient analyzer that parses product ingredient lists and categorizes each ingredient as good, concerning, neutral, or unknown — with explanations rooted in dermatological evidence.
 
-Built by **Dr. Ifeanyi R. Chukwuka, MBBS**, Senior Resident in Dermatology.
+Built by **Dr. Ifeanyi R. Chukwuka, MBBS, M.S., MWACP**, Senior Resident in Dermatology.
 
 ---
 
@@ -102,7 +102,7 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-N
 
 ## Author
 
-**Dr. Ifeanyi R. Chukwuka, MBBS**
+**Dr. Ifeanyi R. Chukwuka, MBBS, M.S., MWACP**,
 Senior Resident, Dermatology
 
 > Built while waiting for ERAS-SOAP 2026 -- Didn't get matched 😒. Shipped anyway 🥳🎉.
