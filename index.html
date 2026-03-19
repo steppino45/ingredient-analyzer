@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ingredients Analyzer</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Ingredients Analyzer</h1>
+      <p>Ingredient count: <span id="dbCount">0</span></p>
+      <p>Last updated: <span id="lastUpdated">March 12 2026</span></p>
+    </header>
+    <main>
+      <section id="inputSection">
+        <textarea
+          rows="6"
+          placeholder="Paste ingredients here separated with commas..."
+          id="ingInput"
+        ></textarea>
+        <button id="analyzeBtn">Analyze</button>
+        <button id="resetBtn">Reset</button>
+      </section>
+      <section id="resultsHighlight">
+        <h2>Results</h2>
+        <div id="breakdownCount"></div>
+        <div id="ingredientDisplay"></div>
+      </section>
+      <section id="resultsCards">
+        <div class="card-category" id="goodCards">
+          <h2>✅ Good Ingredients</h2>
+          <div class="cards-grid"></div>
+        </div>
+        <div class="card-category" id="badCards">
+          <h2>🚨 Concerning Ingredients</h2>
+          <div class="cards-grid"></div>
+        </div>
+        <div class="card-category" id="neutralCards">
+          <h2>➖ Neutral Ingredients</h2>
+          <div class="cards-grid"></div>
+        </div>
+        <div class="card-category" id="unknownCards">
+          <h2>❓ Not In Database</h2>
+          <div class="cards-grid"></div>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>
+        &copy;2026 Ifeanyi R. Chukwuka &bull; Ingredient Analyzer &bull; Version
+        1
+      </p>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
