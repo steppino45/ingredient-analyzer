@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+
 # ingredient-analyzer
+
 =======
+
 # Ingredient Analyzer
 
 A clinically-informed cosmetic ingredient analyzer that parses product ingredient lists and categorizes each ingredient as good, concerning, neutral, or unknown — with explanations rooted in dermatological evidence.
@@ -11,7 +14,7 @@ Built by **Dr. Ifeanyi R. Chukwuka, MBBS**, Senior Resident in Dermatology.
 
 ## Live Demo
 
-[View Live App](#) ← replace with your Netlify URL
+[View Live App](https://cosmetic-ingredient-analyzer.netlify.app/)
 
 ---
 
@@ -112,5 +115,6 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-N
 **Dr. Ifeanyi R. Chukwuka, MBBS**
 Senior Resident, Dermatology
 
-> Built while waiting for ERAS-SOAP 2026. Shipped anyway.
->>>>>>> 844cb63 (Initial commit)
+> Built while waiting for ERAS-SOAP 2026 -- Didn't get matched 😒. Shipped anyway 🥳🎉.
+>
+> > > > > > > 844cb63 (Initial commit)
