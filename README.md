@@ -92,16 +92,6 @@ ingredient-analyzer/
 
 ---
 
-## Roadmap
-
-- [ ] Expand ingredient database beyond 55 entries
-- [ ] Barcode lookup via Open Beauty Facts API
-- [ ] Admin panel for database updates without editing JSON manually
-- [ ] Filter cards by category
-- [ ] Share results as image for TikTok/Instagram
-
----
-
 ## License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
