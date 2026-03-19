@@ -96,7 +96,7 @@ ingredient-analyzer/
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-© 2026 Dr. Ifeanyi R. Chukwuka, MBBS. All rights reserved.
+© 2026 Dr. Ifeanyi R. Chukwuka, MBBS, M.S., MWACP. All rights reserved.
 
 ---
 
